@@ -1,0 +1,8 @@
+com\ctscode\userinfo\UserinformationApplication.class
+com\ctscode\userinfo\entity\User.class
+com\ctscode\userinfo\mapper\UserMapperImpl.class
+com\ctscode\userinfo\service\UserService.class
+com\ctscode\userinfo\controller\UserController.class
+com\ctscode\userinfo\dto\UserDTO.class
+com\ctscode\userinfo\repo\UserRepo.class
+com\ctscode\userinfo\mapper\UserMapper.class
